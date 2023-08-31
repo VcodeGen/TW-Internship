@@ -1,4 +1,8 @@
-# TW-Internship
+# TW-Internship   
+
+Harish G
+
+IDE - VSCODE
 
 **Three Tasks or Projects are done using HTML, CSS and Javascript**
 
