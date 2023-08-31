@@ -1,8 +1,12 @@
 # TW-Internship   
 
-Harish G
+**I have included the task video and screenshot of my output in my repo.**
 
-IDE - VSCODE
+**Harish G**
+
+**TWI - WD - 067**
+
+**IDE - VSCODE**
 
 **Three Tasks or Projects are done using HTML, CSS and Javascript**
 
